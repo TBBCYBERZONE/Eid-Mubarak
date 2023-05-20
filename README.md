@@ -50,7 +50,7 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TBBCYBERZONE&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TBBCYBERZONE)  
+!(https://activity-graph.herokuapp.com/graph?username=TBBCYBERZONE)  
 
 
 
