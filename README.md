@@ -1,5 +1,10 @@
-### Hi there 👋
-###  WELCOME TBB CYBER ZONE 
+### ABOUT ME
+
+![](https://komarev.com/ghpvc/?username=TripleHat)
+
+<p align="center"><a href="https://github.com/TripleHat"><img title="TripleHat" src="https://github-readme-stats.vercel.app/api?username=TripleHat&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+
+</p>
 <!--
 **TBBCYBERZONE/TBBCYBERZONE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
