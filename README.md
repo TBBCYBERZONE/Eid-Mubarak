@@ -22,29 +22,30 @@
 
 </html>
 
-𝑰 𝒂𝒎 𝑹𝒊𝒉𝒂𝒏 𝑨𝒉𝒎𝒆𝒅 🔰.
+𝑰 𝒂𝒎 TUSHAR SARKER 🔰.
 
-𝐂𝐄𝐎- 𝑩𝒂𝒏𝒈𝒍𝒂𝒅𝒆𝒔𝒉 𝑯𝒂𝒄𝒌𝒊𝒏𝒈 𝑯𝒆𝒍𝒑 𝑪𝒆𝒏𝒕𝒆𝒓.👨‍💻
+𝐂𝐄𝐎- TBB CYBER ZONE.👨‍💻
 
-𝐂𝐄𝐎- 𝑩𝑯𝑯𝑪 𝑺𝒑𝒂𝒎𝒎𝒊𝒏𝒈 𝑻𝒆𝒂𝒎 🔥
+𝐂𝐄𝐎- TBB SAMPING TEAM🔥
 
 𝑬𝒕𝒉𝒊𝒄𝒂𝒍 𝑯𝒂𝒄𝒌𝒆𝒓 & 𝑪𝒚𝒃𝒆𝒓 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑬𝒙𝒑𝒆𝒓𝒕, 
 
 Skills: PYTHON, HTML , CSS , PHP,  JV, C+
 
-- 🔭 I’m currently working on 𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐇𝐞𝐥𝐩 𝐂𝐞𝐧𝐭𝐞𝐫 
+- 🔭 I’m currently working on 
+- TBB CYBER ZONE
 
 - 🌱 I’m currently learning JavaScript 
 
-- 📫 How to reach me: https://www.facebook.com/white.hat.hacker.Rihan 
+- 📫 How to reach me: https://www.facebook.com/rafi.sarker.905 
 
 - ⚡ Fun fact: Ethical Hacking 👨‍💻 
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 
-<a href="https://github.com/Rihan444"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=MrHacker-X&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/TBBCYBERZONE"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=TBBCYBERZONE-X&color=blueviolet&style=flat-square"></a>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rihan444)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rihanahmed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/white.hat.hacker.Rihan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/bangladshhackinghelpcenter)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://www.blogger.com/profile/17663910137017831903)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebooklive.svg' alt='facebooklive' height='40'>](https://facebook.com/groups/3749151271810746/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/RihanAhmed404)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TBBCYBERZONE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rafi.sarker.9085)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40')  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>]()  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebooklive.svg' alt='facebooklive' height='40'>]https://facebook.com/groups/547086573624546//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](http)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -54,10 +55,6 @@ Skills: PYTHON, HTML , CSS , PHP,  JV, C+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Rihan444)  
 
-![GitHub metrics](https://metrics.lecoq.io/Rihan444)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rihan444)  
-
-![Profile views](https://gpvc.arturio.dev/Rihan444)  
 
  
